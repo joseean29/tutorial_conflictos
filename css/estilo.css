@@ -13,7 +13,13 @@ h2 {
 }
 
 footer {
+<<<<<<< HEAD
     height: 30px;
     border-top: gray;
     background-color: yellow;
+=======
+    height: 50px;
+    border-top: gray;
+    background-color: yellowgreen;
+>>>>>>> refs/remotes/origin/master
 }
